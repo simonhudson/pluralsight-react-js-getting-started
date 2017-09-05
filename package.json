@@ -1,0 +1,19 @@
+{
+  "name": "pluralsight-react-js-getting-started",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonhudson/pluralsight-react-js-getting-started.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonhudson/pluralsight-react-js-getting-started/issues"
+  },
+  "homepage": "https://github.com/simonhudson/pluralsight-react-js-getting-started#readme"
+}
